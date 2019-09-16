@@ -1,5 +1,6 @@
 # atcoderReview
 atcoderの反省会用rep
+https://atcoder.jp/users/urusiguro
 
 ## atCoderのランクが茶色未満だ…
 恥ずかしながら、俺はアルゴリズム得意だ！と粋こんでいた割には
